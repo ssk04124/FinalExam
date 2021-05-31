@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#00ff7f</color>
+    <color name="red">#cf401c</color>
+    <color name="blue">#42a5f5</color>
+    <color name="purple">#b864f1</color>
+    <color name="gold">#ff7c02</color>
+    <color name="washed">#768ca1</color>1515
+    <color name="colorPrimaryDark">#151515</color>
+    <color name="colorPrimary">#343435</color>
+    <color name="text_hint">#00ff7f</color>
+    <color name="colorAccentLight">#f9fbe7</color>
+</resources>

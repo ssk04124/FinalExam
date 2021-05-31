@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">9AM</string>
+    <string name="title_activity_help">가이드라인</string>
+
+    <string name="ad_id">ca-app-pub-7441997739901543~3178356327</string>
+    <string name="banner_ad_unit_id">ca-app-pub-7441997739901543/6051523524</string>
+
+    <string name="about">"아홉시"는 매일 아홉시 오늘의 하루 루틴을 점검하자는 의미로, \n\루틴앱을 필요로 하는 다양한 사람 중
+제작팀이 가장 잘 이해하고 있는, 끊임없는 자기계발이 필요한 20대를 타겟으로 합니다. \\n\\저희의 미션은 20대들의 습관형성을 돕고, 궁극적으로는 20대의 삶의 질을 개선하는 것이에요!</string>
+
+    //추가
+    <string name="title_home">통계</string>
+    <string name="title_dashboard">루틴</string>
+    <string name="title_notifications">마이페이지</string>
+    <string name="messageHi">오늘도 좋은 하루✨</string>
+
+    <string name="floatingButton">Floating Button</string>
+
+    //루틴추가
+    <string name="create_routine">루틴 생성</string>
+    <string name="routine_name">루틴 이름</string>
+    <string name="routine_alarm">리마인더 알림</string>
+    <string name="routine_day">반복 요일</string>
+    <string name="recommend_routine">이런 루틴은 어떠세요?</string>
+    <string name="routine_ex1">💤 아침 시간을 효율적으로</string>
+    <string name="routine_ex2">😀 정신건강 집중 루틴</string>
+    <string name="routine_ex3">👩‍🎓 대학생으로 살아남기</string>
+    <string name="title_activity_main2">MainActivity</string>
+
+</resources>
